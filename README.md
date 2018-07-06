@@ -1,3 +1,3 @@
-# RC
+# Main
 
-Aca vamos a poner el codigo funcional con versiones
+Aca vamos a ir escribiendo los pendientes, funciones nuevas, etc
